@@ -1,0 +1,14 @@
+{
+  "provenance": "PUI 引用真实 B04 BRA 用户样本；与 JSL TG38 的对应关系为人工绑定。输入报文、本机地址、注册状态和 S-CSCF 为测试值。",
+  "local_address": "192.0.2.10:5060",
+  "icid_host": "192.0.2.10",
+  "ioi_to_orig_ioi": true,
+  "users": [
+    {
+      "caller": "+862132010323",
+      "pai": "sip:+862132010323@sh2.ctcims.cn",
+      "registered": true,
+      "scscf": "sip:scscf-demo.example.invalid:5060;lr;orig"
+    }
+  ]
+}
