@@ -1,0 +1,17 @@
+﻿
+# Logs, caches, temporary files and generated results
+*.log
+*.log.*
+__pycache__/
+*.pyc
+*.pyo
+.runtime/
+exports/
+*.tmp
+*.temp
+~$*
+*.zip
+*.hdx
+*.doc
+*.docx
+verify_screenshots/
